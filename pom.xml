@@ -32,7 +32,7 @@
                         <username>MaxwellGomes</username>
                         <password>Sarkofodo08**</password>
                         <applicationName>max-configures-ci-cd-api</applicationName>
-                        <environment>Sandbox</environment>
+                        <environment>Dev</environment>
                         <workerType>MICRO</workerType>
                         <objectStoreV2>true</objectStoreV2>
                     </cloudHubDeployment>
