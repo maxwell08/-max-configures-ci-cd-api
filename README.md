@@ -1,1 +1,1 @@
-# -max-configures-ci-cd-api
+# max-configures-ci-cd-api
